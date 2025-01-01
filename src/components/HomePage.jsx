@@ -50,7 +50,7 @@ const HomePage = () => {
                 className="text-blue-500 hover:text-blue-700"
                 onClick={() => handleEdit(task)}
               >
-                ✏️ Edit
+                ✏️ 
               </button>
             </div>
           ))}
